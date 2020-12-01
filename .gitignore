@@ -6,3 +6,6 @@ nbdist/
 test/
 *.xml
 *.mf
+/LinkedListTricks/nbproject/private/
+/secondLargest/nbproject/private/
+/findIndex/nbproject/private/
