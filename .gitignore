@@ -14,3 +14,7 @@ test/
 /stringRotation/nbproject/private/
 /checkPalindrome/nbproject/private/
 /reverseWords/nbproject/private/
+/firstNonRepeated/nbproject/private/
+/reverseRecursive/nbproject/private/
+*.exe
+*.o
